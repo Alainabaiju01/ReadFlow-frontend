@@ -1,5 +1,7 @@
 import commonAPI from "./commonAPI";
-import serverURL from "./server";
+import serverURL from "./serverURL";
+
+
 
 // WISHLIST ------------------------------------
 export const addWishlistAPI = async (book) => {
